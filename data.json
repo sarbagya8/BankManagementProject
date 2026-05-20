@@ -1,1 +1,26 @@
-[{"name": "sar", "age": 19, "email": "sas", "pin": 7777, "account_No": "12345", "balance": 1444}, {"name": "Sartech", "age": 19, "email": "sar@gmail.com", "pin": 9090, "account_No": "Kk78%7w", "balance": 0}]
+[
+    {
+        "name": "Ram",
+        "age": 19,
+        "email": "ram@gmail.com",
+        "pin": 7777,
+        "account_no": "Kk78%7w",
+        "balance": 0
+    },
+    {
+        "name": "Sarbagya",
+        "age": 21,
+        "email": "sartech@gmail.com",
+        "pin": 8888,
+        "account_no": "Yd79&x7",
+        "balance": 69
+    },
+    {
+        "name": "Shyam",
+        "age": 20,
+        "email": "shyam67@gmail.com",
+        "pin": 9999,
+        "account_no": "1R27X4H7",
+        "balance": 30018
+    }
+]
